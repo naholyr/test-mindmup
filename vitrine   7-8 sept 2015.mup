@@ -28,10 +28,61 @@
         }
       }
     },
+    "2": {
+      "title": "Code / Features",
+      "id": 17,
+      "ideas": {
+        "1": {
+          "title": "Status \"off\"",
+          "id": 18
+        },
+        "2": {
+          "title": "MàJ diagrammes de séquence",
+          "id": 19
+        },
+        "3": {
+          "title": "Retours de commande pour les boutons",
+          "id": 20
+        },
+        "4": {
+          "title": "État filtrage",
+          "id": 22
+        },
+        "5": {
+          "title": " requestAnimationFrame ?",
+          "id": 23
+        },
+        "6": {
+          "title": "Boite à outils standard (modules etc)",
+          "id": 24
+        },
+        "7": {
+          "title": "Lisibilité du code d'éditeur",
+          "id": 25
+        },
+        "8": {
+          "title": "Git & environnement de dév",
+          "id": 27
+        }
+      }
+    },
     "-1": {
       "title": "Specs services (points structurants)",
       "id": 13,
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "Ergonomie",
+          "id": 14
+        },
+        "2": {
+          "title": "Effet télécommande",
+          "id": 15
+        },
+        "3": {
+          "title": "Fiabilité",
+          "id": 16
+        }
+      }
     }
   }
 }
