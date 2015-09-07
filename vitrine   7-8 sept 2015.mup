@@ -1,0 +1,37 @@
+{
+  "title": "vitrine / 7-8 sept 2015",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Démo (Live Private Audience + Live Private Participation)",
+      "id": 2,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Annonce / Initialisation",
+          "id": 7
+        },
+        "2": {
+          "title": "Participant",
+          "id": 8
+        },
+        "3": {
+          "title": "Modérateur",
+          "id": 9
+        },
+        "4": {
+          "title": "Admin",
+          "id": 10
+        }
+      }
+    },
+    "-1": {
+      "title": "Specs services (points structurants)",
+      "id": 13,
+      "ideas": {}
+    }
+  }
+}
