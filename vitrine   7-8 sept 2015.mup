@@ -12,7 +12,7 @@
           "id": 18
         },
         "2": {
-          "title": "MàJ diagrammes de séquence",
+          "title": "MaJ diagrammes de sequence",
           "id": 19
         },
         "3": {
@@ -20,7 +20,7 @@
           "id": 20
         },
         "4": {
-          "title": "État filtrage",
+          "title": "E‰tat filtrage",
           "id": 22
         },
         "5": {
@@ -28,20 +28,26 @@
           "id": 23
         },
         "6": {
-          "title": "Boite à outils standard (modules etc)",
+          "title": "Boite a outils standard (modules etc)",
           "id": 24
         },
-        "7": {
-          "title": "Lisibilité du code  & éditeur",
-          "id": 25
-        },
-        "8": {
-          "title": "Git & environnement de dév",
-          "id": 27
-        },
         "9": {
-          "title": "Socket déconnecte sous firefox",
+          "title": "Socket deconnecte sous firefox",
           "id": 29
+        },
+        "0.5": {
+          "title": "Git & environnement de dev",
+          "id": 27,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.75": {
+          "title": "Lisibilite du code  & editeur",
+          "id": 25,
+          "attr": {
+            "style": {}
+          }
         }
       }
     },
@@ -54,11 +60,11 @@
           "id": 14
         },
         "2": {
-          "title": "Effet télécommande",
+          "title": "Effet telecommande",
           "id": 15
         },
         "3": {
-          "title": "Fiabilité",
+          "title": "Fiabilite",
           "id": 16
         }
       }
@@ -76,7 +82,7 @@
       }
     },
     "-11": {
-      "title": "Démo (Live Private Audience + Live Private Participation)",
+      "title": "Demo (Live Private Audience + Live Private Participation)",
       "id": 2,
       "attr": {
         "style": {},
@@ -96,7 +102,7 @@
           "id": 8
         },
         "3": {
-          "title": "ModÃ©rateur",
+          "title": "Moderateur",
           "id": 9
         },
         "4": {
@@ -122,7 +128,7 @@
           "id": 32
         },
         "2": {
-          "title": "Pour chaque page, comment sont injectées les données ?",
+          "title": "Pour chaque page, comment sont injectees les donnees ?",
           "id": 33
         }
       }
