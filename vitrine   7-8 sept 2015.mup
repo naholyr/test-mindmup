@@ -3,31 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Démo (Live Private Audience + Live Private Participation)",
-      "id": 2,
-      "attr": {
-        "style": {}
-      },
-      "ideas": {
-        "1": {
-          "title": "Annonce / Initialisation",
-          "id": 7
-        },
-        "2": {
-          "title": "Participant",
-          "id": 8
-        },
-        "3": {
-          "title": "Modérateur",
-          "id": 9
-        },
-        "4": {
-          "title": "Admin",
-          "id": 10
-        }
-      }
-    },
     "2": {
       "title": "Code / Features",
       "id": 17,
@@ -57,12 +32,16 @@
           "id": 24
         },
         "7": {
-          "title": "Lisibilité du code d'éditeur",
+          "title": "Lisibilité du code  & éditeur",
           "id": 25
         },
         "8": {
           "title": "Git & environnement de dév",
           "id": 27
+        },
+        "9": {
+          "title": "Socket déconnecte sous firefox",
+          "id": 29
         }
       }
     },
@@ -81,6 +60,70 @@
         "3": {
           "title": "Fiabilité",
           "id": 16
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Revue de l'architecture logicielle",
+      "id": 31,
+      "attr": {
+        "position": [
+          321.5,
+          -278,
+          5
+        ],
+        "style": {}
+      }
+    },
+    "-11": {
+      "title": "Démo (Live Private Audience + Live Private Participation)",
+      "id": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          323.5,
+          333,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Annonce / Initialisation",
+          "id": 7
+        },
+        "2": {
+          "title": "Participant",
+          "id": 8
+        },
+        "3": {
+          "title": "Modérateur",
+          "id": 9
+        },
+        "4": {
+          "title": "Admin",
+          "id": 10
+        }
+      }
+    },
+    "-0.75": {
+      "title": "Authentification",
+      "id": 30,
+      "attr": {
+        "position": [
+          415.5,
+          -154,
+          6
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Contenu de la session utilisateur ?",
+          "id": 32
+        },
+        "2": {
+          "title": "Pour chaque page, comment sont injectées les données ?",
+          "id": 33
         }
       }
     }
