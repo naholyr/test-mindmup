@@ -85,23 +85,23 @@
         "4": {
           "title": "E‰tat filtrage",
           "id": 22,
-          "attr": {
-            "style": {
-              "background": "#FF3300"
-            },
-            "progress": "parked"
-          },
           "ideas": {
             "1": {
-              "title": "Utiliser localStorage",
+              "title": "Utiliser sessionStorage",
               "id": 41,
               "attr": {
                 "style": {
-                  "background": "#FF3300"
+                  "background": "#FFCC00"
                 },
-                "progress": "parked"
+                "progress": "in-progress"
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFCC00"
+            },
+            "progress": "in-progress"
           }
         },
         "5": {
@@ -151,7 +151,23 @@
           "title": "Git & environnement de dev",
           "id": 27,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing",
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Env de dev: node & mysql",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
           }
         },
         "0.75": {
@@ -241,7 +257,10 @@
           "title": "Pour chaque page, comment sont injectees les donnees ?",
           "id": 33,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "2": {
@@ -257,33 +276,57 @@
       "title": "Demo (Live Private Audience + Live Private Participation)",
       "id": 2,
       "attr": {
-        "style": {},
         "position": [
           323.5,
           333,
           3
-        ]
+        ],
+        "style": {
+          "background": "#FF3300"
+        },
+        "progress": "parked"
       },
       "ideas": {
         "1": {
           "title": "Annonce / Initialisation",
           "id": 7,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FF3300"
+            },
+            "progress": "parked"
+          },
+          "ideas": {
+            "1": {
+              "title": "Implémentation de l'authentification",
+              "id": 48,
+              "attr": {
+                "style": {
+                  "background": "#FF3300"
+                },
+                "progress": "parked"
+              }
+            }
           }
         },
         "2": {
           "title": "Participant",
           "id": 8,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "3": {
           "title": "Moderateur",
           "id": 9,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "4": {
@@ -291,6 +334,16 @@
           "id": 10,
           "attr": {
             "style": {}
+          }
+        },
+        "1.5": {
+          "title": "Diffuseur",
+          "id": 49,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         }
       }
@@ -367,6 +420,7 @@
         }
       }
     },
+    "customCSS": ".mapjs-node[mapjs-level=\"1\"]{\n  border-radius: 30px;\n  font-size: 20px;\n  font-weight: bold;\n}\n.mapjs-node[mapjs-level=\"2\"]{\n  border-radius: 20px;\n  font-size: 16px;\n}",
     "style": {
       "background": "#FFCC00"
     },
