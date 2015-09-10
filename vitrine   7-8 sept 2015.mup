@@ -23,11 +23,11 @@
             }
           },
           "attr": {
+            "collapsed": true,
             "style": {
-              "background": "#FFCC00"
+              "background": "#00CC00"
             },
-            "progress": "in-progress",
-            "collapsed": true
+            "progress": "passing"
           }
         },
         "2": {
@@ -83,7 +83,7 @@
           }
         },
         "4": {
-          "title": "E‰tat filtrage",
+          "title": "Eâ€°tat filtrage",
           "id": 22,
           "ideas": {
             "1": {
@@ -91,17 +91,17 @@
               "id": 41,
               "attr": {
                 "style": {
-                  "background": "#FFCC00"
+                  "background": "#00CC00"
                 },
-                "progress": "in-progress"
+                "progress": "passing"
               }
             }
           },
           "attr": {
             "style": {
-              "background": "#FFCC00"
+              "background": "#00CC00"
             },
-            "progress": "in-progress"
+            "progress": "passing"
           }
         },
         "5": {
@@ -174,11 +174,11 @@
           "title": "Lisibilite du code  & editeur",
           "id": 25,
           "attr": {
+            "collapsed": true,
             "style": {
-              "background": "#00CCFF"
+              "background": "#00CC00"
             },
-            "progress": "under-review",
-            "collapsed": true
+            "progress": "passing"
           },
           "ideas": {
             "1": {
@@ -219,26 +219,38 @@
           "title": "Ergonomie",
           "id": 14,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "2": {
           "title": "Effet telecommande",
           "id": 15,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "3": {
           "title": "Fiabilite",
           "id": 16,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         }
       },
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#00CC00"
+        },
+        "progress": "passing"
       }
     },
     "-0.5": {
@@ -250,7 +262,10 @@
           -278,
           5
         ],
-        "style": {}
+        "style": {
+          "background": "#00CC00"
+        },
+        "progress": "passing"
       },
       "ideas": {
         "1": {
@@ -267,7 +282,10 @@
           "title": "Composition d'une session utilisateur",
           "id": 44,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         }
       }
@@ -282,31 +300,31 @@
           3
         ],
         "style": {
-          "background": "#FF3300"
+          "background": "#FFCC00"
         },
-        "progress": "parked"
+        "progress": "in-progress"
       },
       "ideas": {
         "1": {
           "title": "Annonce / Initialisation",
           "id": 7,
-          "attr": {
-            "style": {
-              "background": "#FF3300"
-            },
-            "progress": "parked"
-          },
           "ideas": {
             "1": {
-              "title": "Implémentation de l'authentification",
+              "title": "ImplÃ©mentation de l'authentification",
               "id": 48,
               "attr": {
                 "style": {
-                  "background": "#FF3300"
+                  "background": "#00CC00"
                 },
-                "progress": "parked"
+                "progress": "passing"
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "2": {
@@ -333,7 +351,10 @@
           "title": "Admin",
           "id": 10,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFCC00"
+            },
+            "progress": "in-progress"
           }
         },
         "1.5": {
